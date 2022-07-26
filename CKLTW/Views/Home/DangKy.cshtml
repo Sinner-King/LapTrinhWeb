@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "DangKy";
+}
+
+<h3 class="tittle-w3l text-center mb-lg-5 mb-sm-4 mb-3">
+    <span>Đ</span>ăng
+    <span>K</span>ý
+    <span>T</span>ài
+    <span>K</span>hoản
+</h3>
+@model CKLTW.Models.TaiKhoanModels
+@using (Html.BeginForm("DangKy", "Home", FormMethod.Post))
+{
+<div class="modal-body">
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.HoTen, new { @class = "col-form-label" })
+        @Html.TextBoxFor(x => x.HoTen, new { @class = "form-control", type = "text", name = "Name", placeholder = "Nhập họ tên của bạn" })
+        @Html.ValidationMessageFor(x => x.HoTen)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Email, new { @class = "col-form-label" })
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control", type = "email", name = "Email", placeholder = "Nhập Email của bạn" })
+        @Html.ValidationMessageFor(x => x.Email)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.TaiKhoan, new { @class = "col-form-label" })
+        @Html.TextBoxFor(x => x.TaiKhoan, new { @class = "form-control", type = "text", name = "Name", placeholder = "Nhập Tài khoản của bạn" })
+        @Html.ValidationMessageFor(x => x.TaiKhoan)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.MatKhau, new { @class = "col-form-label" })
+        @Html.TextBoxFor(x => x.MatKhau, new { @class = "form-control", type = "password", id = "password", name = "Password", placeholder = "Nhập mk của bạn" })
+        @Html.ValidationMessageFor(x => x.MatKhau)
+    </div>
+    <div class="right-w3l">
+        <input type="submit" class="form-control" value="Register">
+    </div>
+
+
+
+</div>
+}

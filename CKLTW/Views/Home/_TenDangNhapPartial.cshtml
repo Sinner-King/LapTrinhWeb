@@ -1,0 +1,23 @@
+﻿@if (ViewBag.TenDN == null)
+{
+    <li class="text-center border-right text-white">
+        <a href="@Url.Action("DangKy", "Home")" class="text-white">
+            <i class="fas fa-sign-out-alt mr-2"></i>Register
+        </a>
+
+    </li>
+    <li class="text-center text-white">
+        <a href="@Url.Action("DangNhap", "Home")" class="text-white">
+            <i class="fas fa-sign-in-alt mr-2"></i> Log In
+        </a>
+    </li>
+}
+else
+{
+    <li class="text-center text-white">
+        <a href="@Url.Action("DangXuat","Home")" class="text-white">
+            <i class="fas fa-sign-in-alt mr-2"></i> @ViewBag.TenDN.TaiKhoan
+        </a>
+    </li>
+}
+

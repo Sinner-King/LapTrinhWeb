@@ -1,0 +1,19 @@
+﻿@using CKLTW.Models
+@{
+    List<SanPhamModels> items = Session["GIOHANG"] as List<SanPhamModels>;
+}
+<a href="@Url.Action("Checkout", "Home")">
+    <img src="~/images/logo2.png" height="30" width="30"/>
+</a>
+@if (ViewBag.GioHang != null)
+{
+    <a href="@Url.Action("Checkout","Home")" >
+        <span>
+            @(items==null?0:items.Count())
+        </span>
+        <ul>
+            <li><a></a></li>
+        </ul>
+    </a>
+}
+

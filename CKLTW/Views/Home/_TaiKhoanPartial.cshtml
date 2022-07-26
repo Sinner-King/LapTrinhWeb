@@ -1,0 +1,42 @@
+﻿@if (ViewBag.TaiKhoan == null)
+{
+    <h3 class="tittle-w3l text-center mb-lg-5 mb-sm-4 mb-3">
+        <span>Đ</span>ăng
+        <span>N</span>hập
+        <span>T</span>ài
+        <span>K</span>hoản
+    </h3>
+    <div class="modal-body">
+        @model CKLTW.Models.TaiKhoanModels
+        @using (Html.BeginForm("DangNhap", "Home", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.LabelFor(x => x.TaiKhoan, new { @class = "col-form-label" })
+                @Html.TextBoxFor(x => x.TaiKhoan, new { @class = "form-control", type = "text", name = "Name", placeholder = "Nhập họ tên của bạn" })
+                @*<label class="col-form-label">Username</label>
+                    <input type="text" class="form-control" placeholder=" " name="Name" required="">*@
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(x => x.MatKhau, new { @class = "col-form-label" })
+                @Html.TextBoxFor(x => x.MatKhau, new { @class = "form-control", type = "password", id = "password", name = "Password", placeholder = "Nhập mk của bạn" })
+                @*<label class="col-form-label">Password</label>
+                    <input type="password" class="form-control" placeholder=" " name="Password" required="">*@
+            </div>
+            <div class="right-w3l">
+                <input type="submit" class="form-control" value="Log in">
+            </div>
+
+            <p class="text-center dont-do mt-3">
+                Don't have an account?
+                <a href="@Url.Action("DangKy","Home")">
+                    Register Now
+                </a>
+            </p>
+        }
+    </div>
+
+}
+else
+{
+    <h3>@ViewBag.TaiKhoan.TaiKhoan</h3>
+}

@@ -1,0 +1,290 @@
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\CKLTW.dll.config
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\CKLTW.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\CKLTW.pdb
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\obj\Debug\CKLTW.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\obj\Debug\CKLTW.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\obj\Debug\CKLTW.csproj.CopyComplete
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\obj\Debug\CKLTW.dll
+C:\Users\ASUS\Desktop\CKLTW\CKLTW\obj\Debug\CKLTW.pdb
+D:\hoctap\lttt\CKLTW\CKLTW\obj\Debug\CKLTW.csprojAssemblyReference.cache
+D:\hoctap\lttt\CKLTW\CKLTW\obj\Debug\CKLTW.csproj.CoreCompileInputs.cache
+D:\hoctap\lttt\CKLTW\CKLTW\obj\Debug\CKLTW.dll
+D:\hoctap\lttt\CKLTW\CKLTW\obj\Debug\CKLTW.pdb
+D:\hoctap\lttt\CKLTW\CKLTW\bin\CKLTW.dll.config
+D:\hoctap\lttt\CKLTW\CKLTW\bin\CKLTW.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\CKLTW.pdb
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csc.exe
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csc.exe.config
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csc.rsp
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csi.exe
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csi.exe.config
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\csi.rsp
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.AppContext.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Collections.Immutable.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Console.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.IO.Compression.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.IO.FileSystem.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Net.Http.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Net.Sockets.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.ValueTuple.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Xml.XPath.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\vbc.exe
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\vbc.exe.config
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\vbc.rsp
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\VBCSCompiler.exe
+D:\hoctap\lttt\CKLTW\CKLTW\bin\roslyn\VBCSCompiler.exe.config
+D:\hoctap\lttt\CKLTW\CKLTW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoctap\lttt\CKLTW\CKLTW\obj\Debug\CKLTW.csproj.CopyComplete
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\CKLTW.dll.config
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\CKLTW.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\CKLTW.pdb
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csc.exe
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csc.exe.config
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csc.rsp
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csi.exe
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csi.exe.config
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\csi.rsp
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.AppContext.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Collections.Immutable.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Console.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Globalization.Calendars.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.IO.Compression.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.IO.FileSystem.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Net.Http.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Net.Sockets.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Reflection.Metadata.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.ValueTuple.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Xml.XPath.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\vbc.exe
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\vbc.exe.config
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\vbc.rsp
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\VBCSCompiler.exe
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\roslyn\VBCSCompiler.exe.config
+D:\hoctap\lttt\final_ltw_xong\CKLTW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hoctap\lttt\final_ltw_xong\CKLTW\obj\Debug\CKLTW.csprojAssemblyReference.cache
+D:\hoctap\lttt\final_ltw_xong\CKLTW\obj\Debug\CKLTW.csproj.CoreCompileInputs.cache
+D:\hoctap\lttt\final_ltw_xong\CKLTW\obj\Debug\CKLTW.csproj.CopyComplete
+D:\hoctap\lttt\final_ltw_xong\CKLTW\obj\Debug\CKLTW.dll
+D:\hoctap\lttt\final_ltw_xong\CKLTW\obj\Debug\CKLTW.pdb
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\CKLTW.dll.config
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\CKLTW.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\CKLTW.pdb
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Net.Http.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\obj\Debug\CKLTW.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\obj\Debug\CKLTW.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\obj\Debug\CKLTW.csproj.CopyComplete
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\obj\Debug\CKLTW.dll
+C:\Users\ASUS\Desktop\final_ltw_19_10\final_ltw_19_10\CKLTW\obj\Debug\CKLTW.pdb
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\CKLTW.dll.config
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\CKLTW.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\CKLTW.pdb
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csc.exe
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csc.exe.config
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csc.rsp
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csi.exe
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csi.exe.config
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\csi.rsp
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.AppContext.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Collections.Immutable.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Console.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Globalization.Calendars.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.IO.Compression.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.IO.FileSystem.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Net.Http.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Net.Sockets.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Reflection.Metadata.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.ValueTuple.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Xml.XPath.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\vbc.exe
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\vbc.exe.config
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\vbc.rsp
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\VBCSCompiler.exe
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\roslyn\VBCSCompiler.exe.config
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\obj\Debug\CKLTW.csproj.AssemblyReference.cache
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\obj\Debug\CKLTW.csproj.CoreCompileInputs.cache
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\obj\Debug\CKLTW.csproj.CopyComplete
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\obj\Debug\CKLTW.dll
+D:\tri thức\Năm 3\Kỳ 7\Lập trình web\Bài Cuối kỳ\Source\CKLTW\obj\Debug\CKLTW.pdb

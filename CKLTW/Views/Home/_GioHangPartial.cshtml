@@ -1,0 +1,12 @@
+﻿@if (ViewBag.GioHang != null)
+{
+    foreach (var item in ViewBag.GioHang)
+    {
+        <option value=""><td>@item.TenSanPham</td> x<td>@item.SoLuong</td></option>
+    }
+}
+else
+{
+    <option>Empty</option>
+}
+

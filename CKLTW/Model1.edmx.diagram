@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="00f7b57fd4294983bc7d973f6fff191b" Name="Diagram1">
+        <EntityTypeShape EntityType="GKLTW12Model.CHITIETDONTHANG" Width="1.5" PointX="5.25" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GKLTW12Model.CHUDE" Width="1.5" PointX="0.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GKLTW12Model.DONDATHANG" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GKLTW12Model.KHACHHANG" Width="1.5" PointX="0.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GKLTW12Model.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="GKLTW12Model.SANPHAM" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="GKLTW12Model.FK_CHITIETDONTHANG_DONDATHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="GKLTW12Model.FK_CHITIETDONTHANG_SACH" ManuallyRouted="false" />
+        <AssociationConnector Association="GKLTW12Model.FK_Chude" ManuallyRouted="false" />
+        <AssociationConnector Association="GKLTW12Model.FK_DONDATHANG_KHACHHANG" ManuallyRouted="false" />
+        <AssociationConnector Association="GKLTW12Model.FK_NhaXB" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
